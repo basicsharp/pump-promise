@@ -1,6 +1,6 @@
 {
   "name": "pump-promise",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Promise-enhancing wrapper for pump",
   "main": "index.js",
   "repository": {
