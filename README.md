@@ -1,15 +1,15 @@
-# pump
+# pump-promise
 
 Promise-enhancing wrapper for [pump](https://github.com/mafintosh/pump).
 
 
 ```
-npm install pump
+npm install pump-promise
 ```
 
 ## Usage
 
-Simply pass the streams you want to pipe together to pump and add an optional callback
+Simply pass the streams you want to pipe together to pump-promise as same as for the original [pump](https://github.com/mafintosh/pump).
 
 ``` js
 var pump = require('pump-promise')
