@@ -1,6 +1,6 @@
 # pump
 
-Promise-enhancing wrapper for (pump)[https://github.com/mafintosh/pump].
+Promise-enhancing wrapper for [pump](https://github.com/mafintosh/pump).
 
 
 ```
