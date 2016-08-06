@@ -1,0 +1,26 @@
+{
+  "name": "pump-promise",
+  "version": "0.0.1",
+  "description": "Promise-enhancing wrapper for pump",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/basicsharp/pump-promise.git"
+  },
+  "keywords": [
+    "streams",
+    "pipe",
+    "wrapper",
+    "pump",
+    "promise"
+  ],
+  "author": "Porramate Lim <basicsharp@gmail.com> (https://github.com/basicsharp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basicsharp/pump-promise/issues"
+  },
+  "homepage": "https://github.com/basicsharp/pump-promise#readme",
+  "dependencies": {
+    "pump": "^1.0.1"
+  }
+}
